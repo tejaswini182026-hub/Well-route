@@ -1,0 +1,6 @@
+{
+  "name": "Almost okay",
+  "description": "Honest mental health navigation and vibe checks for when you're almost okay. No toxic positivity, just real support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
